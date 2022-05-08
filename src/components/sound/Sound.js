@@ -12,6 +12,7 @@ const Sound = ({ sound }) => {
   const [play, { stop }] = useSound(sound.sound, {
     volume: volume,
     loop: true,
+    ignoreMobileRestrictions: true,
   });
   // console.log(volumeVal);
   const showValue = (e) => {
@@ -22,6 +23,7 @@ const Sound = ({ sound }) => {
       setVolume(0);
     }
   }, [isPlaying]);
+  console.log(volume, isPlaying);
   return (
     <SoundWrapper>
       <SoundImg style={{ opacity: `${0.5 + volume}` }}>{sound.img}</SoundImg>

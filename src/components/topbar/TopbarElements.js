@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const TopbarContainer = styled.div`
   width: 100%;
   height: 50px;
-  background-color: rgba(11, 5, 35, 0.4);
+  background-color: rgba(0, 0, 0, 0.3);
   margin: 0;
 `;
 export const TopbarWrapper = styled.div`
