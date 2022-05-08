@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import waves from "../waves.jpg";
+import waves from "../background3.jpg";
 
 export const HomeContainer = styled.div`
   height: fit-content;

@@ -47,4 +47,7 @@ export const AllSounds = styled.div`
   justify-content: center;
   flex-wrap: wrap;
   gap: 80px;
+  @media screen and (max-width: 370px) {
+    gap: 40px;
+  }
 `;
