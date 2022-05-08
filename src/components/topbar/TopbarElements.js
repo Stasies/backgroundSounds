@@ -12,7 +12,7 @@ export const TopbarWrapper = styled.div`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 0 10px;
+  margin: 0 20px;
 `;
 export const TopbarLeft = styled.div`
   display: flex;
@@ -56,7 +56,6 @@ export const TopbarLeft = styled.div`
     /* padding: 3px 16px; */
     width: 90px;
     height: 25px;
-    margin-left: 50px;
   }
 `;
 export const TopbarRight = styled.div``;
