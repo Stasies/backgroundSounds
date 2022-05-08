@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/backgroundSounds/static/css/main.476204c6.css",
-    "main.js": "/backgroundSounds/static/js/main.72038182.js",
+    "main.js": "/backgroundSounds/static/js/main.72ee13bf.js",
     "static/js/845.d4b84007.chunk.js": "/backgroundSounds/static/js/845.d4b84007.chunk.js",
     "static/js/787.1f97cbb3.chunk.js": "/backgroundSounds/static/js/787.1f97cbb3.chunk.js",
     "static/media/rain.mp3": "/backgroundSounds/static/media/rain.c698b4faf736d919fe09.mp3",
@@ -15,15 +15,15 @@
     "static/media/thunder.mp3": "/backgroundSounds/static/media/thunder.f9669582179082746cdf.mp3",
     "static/media/waves.mp3": "/backgroundSounds/static/media/waves.5b5cee458a5b1b075a31.mp3",
     "static/media/fire.mp3": "/backgroundSounds/static/media/fire.1d00b801e22802e1dfe6.mp3",
-    "static/media/waves.jpg": "/backgroundSounds/static/media/waves.dd6456a83dc0a2594e71.jpg",
+    "static/media/background3.jpg": "/backgroundSounds/static/media/background3.6dd938c1b29b59ff1cdd.jpg",
     "index.html": "/backgroundSounds/index.html",
     "main.476204c6.css.map": "/backgroundSounds/static/css/main.476204c6.css.map",
-    "main.72038182.js.map": "/backgroundSounds/static/js/main.72038182.js.map",
+    "main.72ee13bf.js.map": "/backgroundSounds/static/js/main.72ee13bf.js.map",
     "845.d4b84007.chunk.js.map": "/backgroundSounds/static/js/845.d4b84007.chunk.js.map",
     "787.1f97cbb3.chunk.js.map": "/backgroundSounds/static/js/787.1f97cbb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.476204c6.css",
-    "static/js/main.72038182.js"
+    "static/js/main.72ee13bf.js"
   ]
 }
