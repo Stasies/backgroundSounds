@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/backgroundSounds/static/css/main.476204c6.css",
-    "main.js": "/backgroundSounds/static/js/main.500417f8.js",
+    "main.js": "/backgroundSounds/static/js/main.72038182.js",
     "static/js/845.d4b84007.chunk.js": "/backgroundSounds/static/js/845.d4b84007.chunk.js",
     "static/js/787.1f97cbb3.chunk.js": "/backgroundSounds/static/js/787.1f97cbb3.chunk.js",
     "static/media/rain.mp3": "/backgroundSounds/static/media/rain.c698b4faf736d919fe09.mp3",
@@ -18,12 +18,12 @@
     "static/media/waves.jpg": "/backgroundSounds/static/media/waves.dd6456a83dc0a2594e71.jpg",
     "index.html": "/backgroundSounds/index.html",
     "main.476204c6.css.map": "/backgroundSounds/static/css/main.476204c6.css.map",
-    "main.500417f8.js.map": "/backgroundSounds/static/js/main.500417f8.js.map",
+    "main.72038182.js.map": "/backgroundSounds/static/js/main.72038182.js.map",
     "845.d4b84007.chunk.js.map": "/backgroundSounds/static/js/845.d4b84007.chunk.js.map",
     "787.1f97cbb3.chunk.js.map": "/backgroundSounds/static/js/787.1f97cbb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.476204c6.css",
-    "static/js/main.500417f8.js"
+    "static/js/main.72038182.js"
   ]
 }
